@@ -1,7 +1,8 @@
 Flask
 pandas
-numpy
-sklearn
 matplotlib
 seaborn
 unicorn
+scipy
+scikit-learn
+numpy

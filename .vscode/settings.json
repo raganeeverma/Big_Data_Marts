@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "Envirnment",
+        "jsonify",
+        "librabries",
+        "numpy",
+        "regmodel",
+        "technolocabs",
+        "venv"
+    ],
+    "python.analysis.extraPaths": [
+        "./venv/Lib/site-packages"
+    ]
+}
