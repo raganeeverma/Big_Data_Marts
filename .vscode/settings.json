@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
         "Envirnment",
+        "gunicorn",
         "jsonify",
         "librabries",
         "numpy",

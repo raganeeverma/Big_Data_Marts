@@ -2,7 +2,7 @@ Flask
 pandas
 matplotlib
 seaborn
-unicorn
+gunicorn
 scipy
 scikit-learn
 numpy
